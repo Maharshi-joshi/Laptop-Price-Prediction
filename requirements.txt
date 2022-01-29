@@ -3,3 +3,7 @@ sklearn
 numpy
 pandas
 pickle
+scikit-learn
+matplotlib
+seaborn
+xgboost
